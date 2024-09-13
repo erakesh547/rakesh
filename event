@@ -1,0 +1,4 @@
+  git add event
+  git add .
+  git status
+  git commit -m "I am a student"
